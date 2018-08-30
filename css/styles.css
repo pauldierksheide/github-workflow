@@ -4,7 +4,11 @@ p {
 }
 
 body {
-    background-color: dodgerblue;
+    background-color: #5c6e8c;
+}
+
+h1 {
+    text-align: center;
 }
 
 h2 {
