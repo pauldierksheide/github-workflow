@@ -1,16 +1,28 @@
 p {
     text-align: center;
     font-family: Alido;
+    color: white;
+    align: middle;
 }
 
 body {
     background-color: #5c6e8c;
+    color: white;
+    text-align: middle;
+    align: middle;
+    list-style-position: inside;
+}
+
+div {
+    text-align: center;
 }
 
 h1 {
     text-align: center;
+    color: white;
 }
 
 h2 {
-    color: blue;
+    color: white;
+    text-align: center;
 }
